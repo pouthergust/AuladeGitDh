@@ -1,4 +1,3 @@
 # Aula 9
 
-## Gabriel Henrique
-### Baixo Custo
+## Grupo 2
