@@ -1,0 +1,22 @@
+body {
+    display: grid;
+    place-items: center;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+}
+
+button {
+    background: none;
+    font-size: 24px;
+    border: 1px solid aqua;
+    border-radius: 5px;
+}
+
+span {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
