@@ -1,6 +1,6 @@
 * Custo Medio Intel
 
-* Processador - Intel Core I5- 10400
+* Processador - Intel Core I5- 10400kkk
 * Placa Mae - Asus Prime H310M/BR Intel LGA1151, DDR4
 * Memoria Principal - 16GB DDR4
 * Memoria Secundaria - SSD 240GB Sata
